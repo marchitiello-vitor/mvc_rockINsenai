@@ -7,10 +7,13 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using exemplo.Models;
 
-namespace exemplo.Controllers
+namespace mvc_rockINsenai.Controllers
 {
-    public class MusicoController
+    public class LoginController : Controller
     {
-        
+        public IActionResult Index()
+        {
+            return View();
+        }
     }
 }

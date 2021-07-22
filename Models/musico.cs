@@ -1,7 +1,12 @@
 namespace exemplo.Models
 {
-    public class musico
+    public class Musico : Usuario
     {
+        public string OMB;
+        
+        public override void Logar(){
+
+        }
         
     }
 }

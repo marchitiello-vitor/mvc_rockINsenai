@@ -1,6 +1,6 @@
 namespace exemplo.Models
 {
-    public class newclass
+    public class Participante : Usuario
     {
         
     }
