@@ -70,14 +70,38 @@ body {
   line-height: 60px; /* Vertically center the text there */
 }
 
+.form {
+  margin-left: 500px;
+  margin-top: 250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 .labe {
   display: flex;
   width: 300px;
   height: 50px;
-  background-color: red;
+  /* background-color: red; */
 }
 
 form input {
-
+  margin-top: 5px;
+  width: 300px;
+  border: 1px solid #934FD6;
+  border-radius: 5px;
 }
+
+button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #FA600C;
+  color: white;
+  width: 65px;
+  height: 30px;
+  border-radius: 5px;
+  border: none;
+  margin-top: 10px;
+}
+

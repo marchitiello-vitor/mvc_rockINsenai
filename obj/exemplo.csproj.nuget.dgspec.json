@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dev\\Desktop\\mvc_rockINsenai\\exemplo.csproj": {}
+    "C:\\Users\\dev\\Desktop\\vitor labadessa\\mvc_rockINsenai\\exemplo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dev\\Desktop\\mvc_rockINsenai\\exemplo.csproj": {
+    "C:\\Users\\dev\\Desktop\\vitor labadessa\\mvc_rockINsenai\\exemplo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dev\\Desktop\\mvc_rockINsenai\\exemplo.csproj",
+        "projectUniqueName": "C:\\Users\\dev\\Desktop\\vitor labadessa\\mvc_rockINsenai\\exemplo.csproj",
         "projectName": "exemplo",
-        "projectPath": "C:\\Users\\dev\\Desktop\\mvc_rockINsenai\\exemplo.csproj",
+        "projectPath": "C:\\Users\\dev\\Desktop\\vitor labadessa\\mvc_rockINsenai\\exemplo.csproj",
         "packagesPath": "C:\\Users\\dev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dev\\Desktop\\mvc_rockINsenai\\obj\\",
+        "outputPath": "C:\\Users\\dev\\Desktop\\vitor labadessa\\mvc_rockINsenai\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dev\\AppData\\Roaming\\NuGet\\NuGet.Config"
